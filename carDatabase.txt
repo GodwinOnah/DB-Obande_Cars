@@ -1,0 +1,7 @@
+ // Created my table using Beekerper postgress GUI
+
+ CREATE TABLE CarCustomer (id smallint,name text,phone text,email text,address text,password text)
+                          
+                
+
+
